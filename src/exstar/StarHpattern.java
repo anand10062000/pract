@@ -22,6 +22,7 @@ public class StarHpattern {
 					
 				}
 			System.out.println();
+			System.out.println("hloo");
 			}
 		}
 
